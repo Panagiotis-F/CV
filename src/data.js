@@ -3,7 +3,6 @@ export const profile = {
   initials: "PF",
   title: "PhD Student, Dept. of Informatics & Telecommunications, University of Thessaly",
   email: "pfountas@uth.gr",
-  phone: "+30 6973257234",
   orcid: "https://orcid.org/0000-0002-4555-6606",
   researchgate: "https://www.researchgate.net/profile/Panagiotis-Fountas",
   location: "Lamia, Greece",
